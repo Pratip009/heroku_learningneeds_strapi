@@ -17,6 +17,8 @@
     "@strapi/provider-upload-cloudinary": "^4.25.8",
     "@strapi/strapi": "4.25.8",
     "better-sqlite3": "8.6.0",
+    "book-back": "file:",
+    "mysql": "^2.18.1",
     "pg": "^8.12.0",
     "pg-connection-string": "^2.6.4",
     "react": "^18.0.0",
